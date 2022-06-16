@@ -4,8 +4,8 @@ import smtplib
 import random
 import datetime as dt
 
-MY_EMAIL = "pythonstrup@gmail.com"
-PASSWORD = "asdf1123!"
+MY_EMAIL = "YOUR_EMAIL"
+PASSWORD = "YOUR_PASSWORD"
 TYPE_OF_LETTER = ["letter_1.txt", "letter_2.txt", "letter_3.txt"]
 
 # 1. Update the birthdays.csv
